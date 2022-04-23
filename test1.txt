@@ -1,23 +1,19 @@
-<<<<<<< HEAD
-=======
-goego
-sovoemg
-osmoemgo
->>>>>>> d1c62a497c6b7d61f4e998f26b9e3fdd3e68035a
-insgesamt 440
-drwxrwxr-x 11 armin armin   4096 Apr 23 22:17 ./
+insgesamt 452
+drwxrwxr-x 11 armin armin   4096 Apr 23 23:01 ./
 drwxrwxr-x  3 armin armin   4096 Apr 23 22:16 ../
 drwxrwxr-x  4 armin armin   4096 Apr 23 22:16 .assets/
 -rwxrwxr-x  1 armin armin 115171 Apr 23 22:16 data-science-101-concept.png*
 -rwxrwxr-x  1 armin armin 278338 Apr 23 22:16 data-science-101.html*
 -rwxrwxr-x  1 armin armin   3896 Apr 23 22:16 data-science-101.ipynb*
 drwxrwxr-x  4 armin armin   4096 Apr 23 22:16 exercises/
-drwxrwxr-x  8 armin armin   4096 Apr 23 22:17 .git/
+drwxrwxr-x  8 armin armin   4096 Apr 23 23:02 .git/
 drwxrwxr-x  2 armin armin   4096 Apr 23 22:16 index/
-drwxrwxr-x  2 armin armin   4096 Apr 23 22:16 jupyter/
+drwxrwxr-x  2 armin armin   4096 Apr 23 22:31 jupyter/
 drwxrwxr-x  3 armin armin   4096 Apr 23 22:16 ml/
 drwxrwxr-x  2 armin armin   4096 Apr 23 22:16 python/
--rw-rw-r--  1 armin armin     14 Apr 23 22:16 README.md
+-rw-rw-r--  1 armin armin      9 Apr 23 22:31 README.md
 drwxrwxr-x  4 armin armin   4096 Apr 23 22:16 spark/
 drwxrwxr-x  2 armin armin   4096 Apr 23 22:16 stats/
--rw-rw-r--  1 armin armin      0 Apr 23 22:17 test1.txt
+-rw-rw-r--  1 armin armin      0 Apr 23 23:04 test1.txt
+-rw-rw-r--  1 armin armin   8192 Apr 23 22:31 test.db
+-rw-rw-r--  1 armin armin     18 Apr 23 22:32 test.txt
