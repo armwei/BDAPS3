@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+goego
+sovoemg
+osmoemgo
+>>>>>>> d1c62a497c6b7d61f4e998f26b9e3fdd3e68035a
 insgesamt 440
 drwxrwxr-x 11 armin armin   4096 Apr 23 22:17 ./
 drwxrwxr-x  3 armin armin   4096 Apr 23 22:16 ../
